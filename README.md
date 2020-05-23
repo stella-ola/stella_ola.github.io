@@ -1,2 +1,2 @@
-#  http:// stella_ola.github.io
+# stella_ola.github.io
 my personal site
